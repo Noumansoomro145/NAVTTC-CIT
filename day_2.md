@@ -32,3 +32,7 @@ Dynamic Web Page:
 3.  In dynamic web page, Information are change frequently.
 4.  Dynamic web page takes more time for loading.
 5.  In dynamic web pages, database is used.
+
+# Static Website Architecture
+
+Static sites have consist of HTML, CSS, and Javascript that are delivered directly to the user’s browser. There is no computation involved in creating the page that will be transmitted to the user, and there is no database that needs to be queried to generate the page. There are some advantages and disadvantages to this approach, and I cover why you want to develop using a static paradigm in my article on the Features of Static Websites. Suffice it to say that this simpler design does have some significant benefits.
